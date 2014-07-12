@@ -1,0 +1,63 @@
+
+#cli_listagem tr td {
+	border-bottom: solid 1px #ccc;
+}
+
+#cli_listagem tr th {
+	background-color: yellow;	
+	color: #666;
+}
+
+#fieldsetForm {
+	width: 500px;
+	color:red;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+label {
+	color: black;
+	font-size: 15px;
+}
+
+#form_cli_cadastro #nome {
+	width: 300px;
+}
+
+#form_cli_cadastro #razao_social {
+	width: 300px;
+}
+
+#form_cli_cadastro #estado_civil {
+	width: 150px;
+}
+
+#form_cli_cadastro #rg {
+	width: 150px;
+}
+#form_cli_cadastro #cnpj {
+	width: 150px;
+}
+
+#form_cli_cadastro #end_numero {
+	width: 40px;
+}
+
+#form_cli_cadastro #end_logradouro {
+	width: 300px;
+}
+
+#form_cli_cadastro select#tipo_cliente {
+	width: 300px;
+}
+
+#status {
+	width: 500px;
+	background-color: red;
+	color: white;
+	padding-left: 45px;
+}
+
+
+
+
