@@ -215,6 +215,9 @@ if ($cont_email2 != "") {
 		<header>
 			<h1>Crud - iMasters PHP and jQuery</h1>
 			<h3>Cadastro de Clientes</h3>
+			<p>
+				<a href="cli_listagem.php"> Listagem de Clientes </a>
+			</p>
 		</header>
 		<div id="status"><?php if (!$validado){echo $erro; }?></div>
 		<div id="content">
